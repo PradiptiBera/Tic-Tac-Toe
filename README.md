@@ -21,6 +21,8 @@ CSS– Styling and layout
 
 JavaScript – Game logic and interactivit
 
+##🚀Github Repository : https://github.com/PradiptiBera/Tic-Tac-Toe
+
 Open the project folder.
 
 Run index.html in your browser.
